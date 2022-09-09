@@ -1,6 +1,6 @@
 # Data Feedback Loops
 
-This repository contains the code for the paper
+This repository contains code for the paper
 [Data Feedback Loops: Model-driven Amplification of Dataset Biases](https://arxiv.org/abs/2209.03942).
 
 ## Installation
